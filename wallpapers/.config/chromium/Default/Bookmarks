@@ -1,0 +1,40 @@
+{
+   "checksum": "b9e22b6b310900e7e7cf47061afa1052",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13302861515337188",
+         "date_modified": "13302862709939059",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13302862709939059",
+            "guid": "11637f41-7316-4cc4-b12c-8e07379a940e",
+            "id": "5",
+            "name": "How to setup XScreenSaver to lock on suspend for laptops (XUbuntu 18.04) : xubuntu",
+            "type": "url",
+            "url": "https://www.reddit.com/r/xubuntu/comments/9tlnnu/how_to_setup_xscreensaver_to_lock_on_suspend_for/"
+         } ],
+         "date_added": "13302861515337204",
+         "date_modified": "13302862716031521",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13302861515337206",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
