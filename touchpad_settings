@@ -1,0 +1,3 @@
+$ xinput set-prop "Elan Touchpad" "Synaptics Finger" 1 10 5
+https://www.x.org/archive/X11R7.5/doc/man/man4/synaptics.4.html
+https://askubuntu.com/questions/483707/14-04-touchpad-is-too-sensitive
